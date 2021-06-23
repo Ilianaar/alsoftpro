@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ilianaar.github.io/alsoftpro/sitemap.xml
